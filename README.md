@@ -15,8 +15,6 @@
   - Linux
   - Kubernetes
 
-- 📫 How to reach me **jpcarlos336@gmail.com**
-
 <p align="center">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosbpy&theme=radical&layout=compact" alt="carlosbpy"/>
 </p>
@@ -28,3 +26,5 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/carlos-barbosa-046a9716b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="carlosbpy" height="20" width="20" /></a>
 </p>
+
+- 📫 How to reach me **jpcarlos336@gmail.com**
