@@ -18,14 +18,15 @@
 - 📫 How to reach me **jpcarlos336@gmail.com**
 
 <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=carlosbpy&theme=tokyonight&show_icons=true" alt="carlosbpy"/> 
+<img  src="https://github-readme-stats.vercel.app/api?username=carlosbpy&theme=radical&show_icons=true" alt="carlosbpy"/> 
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosbpy&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--
 
 <p align="left">
 <a href="https://www.linkedin.com/in/carlos-barbosa-046a9716b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="carlosbpy" height="20" width="20" /></a>
 </p>
-
-<!--
 
 Here are some ideas to get you started:
 
