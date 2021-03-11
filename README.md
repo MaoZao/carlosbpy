@@ -22,9 +22,7 @@
 <p align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=carlosbpy&theme=radical&show_icons=true" alt="carlosbpy"/> 
 </p>
- 
-<p align="left">
-<a href="https://www.linkedin.com/in/carlos-barbosa-046a9716b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="carlosbpy" height="20" width="20" /></a>
-</p>
 
-- 📫 How to reach me **jpcarlos336@gmail.com**
+
+[![Linkedin Badge](https://img.shields.io/badge/-Carlos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-barbosa-046a9716b/)](https://www.linkedin.com/in/carlos-barbosa-046a9716b/) 
+[![Gmail Badge](https://img.shields.io/badge/-jpcarlos336@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jpcarlos336@gmail.com)](mailto:jpcarlos336@gmail.com)
