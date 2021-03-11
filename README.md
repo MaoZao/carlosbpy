@@ -18,7 +18,7 @@
 - 📫 How to reach me **jpcarlos336@gmail.com**
 
 <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=carlosbpy&theme=tokyonight&show_icons=true" alt="MassaoMitsunaga"/> 
+<img  src="https://github-readme-stats.vercel.app/api?username=carlosbpy&theme=tokyonight&show_icons=true" alt="carlosbpy"/> 
 </p>
 
 <p align="left">
