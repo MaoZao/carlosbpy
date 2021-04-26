@@ -26,3 +26,5 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Carlos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-barbosa-046a9716b/)](https://www.linkedin.com/in/carlos-barbosa-046a9716b/) 
 [![Gmail Badge](https://img.shields.io/badge/-jpcarlos336@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jpcarlos336@gmail.com)](mailto:jpcarlos336@gmail.com)
+
+-'
